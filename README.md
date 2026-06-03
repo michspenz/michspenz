@@ -13,7 +13,7 @@ Currently focused on:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
@@ -39,7 +39,7 @@ Currently focused on:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Security Analyzer Toolkit
 A Python-based toolkit containing:
@@ -60,7 +60,7 @@ Collection of incident response investigations and forensic analysis exercises.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced Python Security
 - DFIR Methodologies
@@ -74,7 +74,7 @@ Collection of incident response investigations and forensic analysis exercises.
 
 ---
 
-## 📫 Connect
+##  Connect
 
 - GitHub: https://github.com/michspenz
 
