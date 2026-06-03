@@ -2,7 +2,7 @@
 
 ### Computer Engineer | Cybersecurity Analyst
 
-Cybersecurity enthusiast focused on security analysis, incident response, digital forensics, network security, and Python-based security automation.
+I am a cybersecurity enthusiast and analyst focused on security analysis, incident response, digital forensics, network security, and Python-based security automation.
 
 ## Areas of Interest
 - Digital Forensics & Incident Response (DFIR)
@@ -30,4 +30,4 @@ Cybersecurity enthusiast focused on security analysis, incident response, digita
 - Advanced Python for Cybersecurity
 
  **GitHub:** https://github.com/michspenz
-Twitter:** https://x.com/kiing_vamp
+**Twitter:** https://x.com/kiing_vamp
