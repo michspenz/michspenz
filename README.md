@@ -2,7 +2,7 @@
 
 ### Computer Engineer | Cybersecurity Analyst
 
-I am a cybersecurity enthusiast and analyst focused on security analysis, incident response, digital forensics, network security, and Python-based security automation.
+I am a cybersecurity analyst focused on security analysis, incident response, digital forensics, network security, and Python-based security automation.
 
 ## Areas of Interest
 - Digital Forensics & Incident Response (DFIR)
